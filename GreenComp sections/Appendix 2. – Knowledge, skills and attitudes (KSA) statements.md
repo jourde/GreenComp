@@ -30,8 +30,6 @@ This document presents the text content from pages 40 to 51 of the [GreenComp](h
 
 Here's the conversion of Appendix 2, Table 3 to markdown format:
 
-### Embodying sustainability values
-
 #### 1.2 Supporting fairness
 
 **To support equity and justice for current and future generations and learn from previous generations for sustainability.**
@@ -51,8 +49,6 @@ Here's the conversion of Appendix 2, Table 3 to markdown format:
 | | 3. Is committed to respecting the interests of future generations. |
 
 Here's the conversion of Appendix 2, Table 4 to markdown:
-
-### Embodying sustainability values
 
 #### 1.3 Promoting nature
 
