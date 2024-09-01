@@ -4,7 +4,7 @@ This repository offers Markdown versions of specific parts of [GreenComp, the Eu
 
 > Bianchi, G., Pisiotis, U. and Cabrera Giraldez, M., GreenComp The European sustainability competence framework, Punie, Y. and Bacigalupo, M. editor(s), EUR 30955 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-46485-3, doi:10.2760/13286, JRC128040. GreenComp is shared under a Creative Commons licence CC BY.
 
-By providing GreenComp content in Markdown format, we aim to make the framework:
+By providing GreenComp content in [Markdown format](https://www.markdownguide.org/), we aim to make the framework:
 - **More accessibl**e: Markdown is a simple, plain-text format that is easy to read and edit, even for those without technical expertise.
 - **More adaptable**: Markdown can be easily converted into various formats (like HTML, PDF, or Word documents), allowing users to customise it for their specific needs.
 - **Easier to integrate**: Educators and institutions can seamlessly incorporate parts of GreenComp into their existing educational materials and systems.
