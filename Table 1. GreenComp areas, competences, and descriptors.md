@@ -1,4 +1,4 @@
-This document presents the text content from pages 14 to 15 of the [GreenComp](https://joint-research-centre.ec.europa.eu/greencomp-european-sustainability-competence-framework_en), converted into Markdown format. Please note that any images originally included on those pages have been removed. You can download this file if you wish to work directly with the raw Markdown text.
+This document presents the text content from pages 14 to 15 of the [GreenComp](https://joint-research-centre.ec.europa.eu/greencomp-european-sustainability-competence-framework_en), converted into Markdown format. Please note that the original table layout has been removed. You can download this file to work directly with the raw Markdown text.
 
 --
 
