@@ -6,7 +6,7 @@ N.B. tables 4.2 and 4.3 were renumbered due to a typo in the original document.
 
 ## Appendix 2. – Knowledge, skills and attitudes (KSA) statements
 
-### Embodying sustainability values
+### 1. Embodying sustainability values
 
 #### 1.1 Valuing sustainability
 
@@ -75,7 +75,7 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 4. Is appreciative of nature's role in our wellbeing, health and security. |
 | | 5. Continuously strives to restore nature. |
 
-### Embracing complexity in sustainability
+### 2. Embracing complexity in sustainability
 
 #### 2.1 Systems thinking
 
@@ -99,8 +99,6 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 4. Cares about systemic consequences of environmental crises for current and future generations and for other species. |
 | | 5. Is concerned about unpredictable cascade effects of human action. |
 
-### Embracing complexity in sustainability
-
 #### 2.2 Critical thinking
 
 **To assess information and arguments, identify assumptions, challenge the status quo, and reflect on how personal, social and cultural backgrounds influence thinking and conclusions.**
@@ -123,8 +121,6 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 4. Is willing to accept and discuss sustainability questions, issues and opportunities. |
 | | 5. Is sceptical about information on sustainability before verifying its source and investigating potential vested interests. |
 
-### Embracing complexity in sustainability
-
 #### 2.3 Problem framing
 
 **To formulate current or potential challenges as a sustainability problem in terms of difficulty, people involved, time and geographical scope, in order to identify suitable approaches to anticipating and preventing problems, and to mitigating and adapting to already existing problems.**
@@ -146,7 +142,7 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 3. Tries to detach one's own judgement from the process of framing the problem. |
 | | 4. Listens actively and shows empathy when collaborating with others to frame current and potential sustainability challenges. |
 
-### Envisioning sustainable futures
+### 3. Envisioning sustainable futures
 
 #### 3.1 Futures literacy
 
@@ -167,8 +163,6 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 2. Is concerned about the impact of one's own action on the future. |
 | | 3. Is aware that the projected consequences on self and community may influence preferences for certain scenarios above others. |
 | | 4. Seeks to combine rigorous methods for thinking about the future with creative and participatory approaches. |
-
-### Envisioning sustainable futures
 
 #### 3.2 Adaptability
 
@@ -191,8 +185,6 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 4. Is flexible, resourceful and adaptable in coping with unexpected environmental changes. |
 | | 5. Copes with trade-offs in decisions on sustainability within and across domains (environmental, social, economic, cultural, political) and across time and space. |
 
-### Envisioning sustainable futures
-
 #### 3.3 Exploratory thinking
 
 **To adopt a relational way of thinking by exploring and linking different disciplines, using creativity and experimentation with novel ideas or methods.**
@@ -213,7 +205,7 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 3. Is committed to considering sustainability challenges and opportunities from different angles. |
 | | 4. Dares to make unusual choices. |
 
-### Acting for sustainability
+### 4. Acting for sustainability
 
 #### 4.1 Political agency
 
@@ -233,9 +225,6 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 2. Expects governments and public institutions to serve the common good. |
 | | 3. Demands political accountability for unsustainable behaviour. |
 | | 4. Is committed to questioning the effectiveness of policies for sustainability. |
-
-
-### Acting for sustainability
 
 #### 4.2 Collective action 
 
@@ -258,8 +247,6 @@ Here's the conversion of Appendix 2, Table 4 to markdown:
 | | 3. Prioritises sustainability values and interests when taking collective action. |
 | | 4. Wants to give back to the community and nature. |
 | | 5. Is committed to change for a more inclusive and fair future. |
-
-### Acting for sustainability
 
 #### 4.3 Individual initiative
 
