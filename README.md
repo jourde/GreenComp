@@ -12,7 +12,7 @@ By providing GreenComp content in Markdown format, we aim to make the framework:
 ## Available converted sections
 - [Table 1. GreenComp areas, competences, and descriptors (pp. 14-15)](https://github.com/jourde/GreenComp-in-Markdown/blob/main/GreenComp%20sections/Table%201.%20GreenComp%20areas%2C%20competences%2C%20and%20descriptors.md)
 - [4. Competence areas and competences (pp. 20-31)](https://github.com/jourde/GreenComp-in-Markdown/blob/main/GreenComp%20sections/4.%20Competence%20areas%20and%20competences.md)
-- [Appendix 2. – Knowledge, skills and attitudes (KSA) statements.md](https://github.com/jourde/GreenComp-in-Markdown/blob/main/GreenComp%20sections/Appendix%202.%20%E2%80%93%20Knowledge%2C%20skills%20and%20attitudes%20(KSA)%20statements.md)
+- [Appendix 2. – Knowledge, skills and attitudes (KSA) statements.md (pp. 40-51)](https://github.com/jourde/GreenComp-in-Markdown/blob/main/GreenComp%20sections/Appendix%202.%20%E2%80%93%20Knowledge%2C%20skills%20and%20attitudes%20(KSA)%20statements.md)
 
 ---
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
